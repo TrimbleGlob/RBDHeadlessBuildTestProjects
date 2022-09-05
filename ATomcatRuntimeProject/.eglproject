@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="ATomcatRuntimeProject">
+	<storedValue key="EGLProjectFeatureMask" value="0"/>
+	<storedValue key="EGLTargetRuntimeMask" value="1"/>
+	<storedValue key="EGLProjectMigrationVersion" value="8.0.0"/>
+</resource>

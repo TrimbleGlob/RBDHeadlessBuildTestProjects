@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="ASharedProject">
+	<storedValue key="DefaultBuildDescriptorNonJavaScriptDebugName" value="ASharedProjectDebugBuildOptions"/>
+	<storedValue key="EGLProjectFeatureMask" value="0"/>
+	<storedValue key="DefaultBuildDescriptorJavaTargetPath" value="ASharedProject/EGLSource/ASharedProject.eglbld"/>
+	<storedValue key="DefaultBuildDescriptorJavaScriptTargetName" value="ASharedProjectJavaScriptBuildOptions"/>
+	<storedValue key="DefaultBuildDescriptorJavaScriptDebugName" value="ASharedProjectJavaScriptBuildOptions"/>
+	<storedValue key="EGLTargetRuntimeMask" value="1"/>
+	<storedValue key="EGLProjectMigrationVersion" value="8.0.0"/>
+	<storedValue key="DefaultBuildDescriptorJavaTargetName" value="ASharedProjectJavaBuildOptions"/>
+	<storedValue key="DefaultBuildDescriptorNonJavaScriptDebugPath" value="ASharedProject/EGLSource/ASharedProject.eglbld"/>
+	<storedValue key="DefaultBuildDescriptorJavaScriptTargetPath" value="ASharedProject/EGLSource/ASharedProject.eglbld"/>
+	<storedValue key="DefaultBuildDescriptorJavaScriptDebugPath" value="ASharedProject/EGLSource/ASharedProject.eglbld"/>
+</resource>
